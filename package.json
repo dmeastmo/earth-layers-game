@@ -35,6 +35,7 @@
   },
   "dependencies": {
     "react-bootstrap": "^0.27.1",
-    "react-tap-event-plugin": "^0.2.1"
+    "react-tap-event-plugin": "^0.2.1",
+    "react-motion": "^0.3.1"
   }
 }
