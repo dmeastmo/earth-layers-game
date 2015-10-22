@@ -1,0 +1,26 @@
+{
+  "questions": [
+    {
+      "question": "There are 2 layers of the earth",
+      "answer": "False"
+    },
+    {
+      "question": "The center of the earth contains (chewy) caramel",
+      "answer": "False"
+    }
+  ],
+  "spaces": [
+    {
+      "x": "264px",
+      "y": "200px"
+    },
+    {
+      "x": "600px",
+      "y": "155px"
+    },
+    {
+      "x": "850px",
+      "y": "270px"
+    }
+  ]
+}
