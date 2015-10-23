@@ -1,10 +1,11 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
 var Bootstrap = require('react-bootstrap');
+var GSAP = require('react-gsap-enhancer');
 
 var Button = Bootstrap.Button;
 
-var Main = React.createClass({
+var Main = GSAP.default()(React.createClass({
 
   getInitialState: function() {
     return {
@@ -63,6 +64,6 @@ var Main = React.createClass({
     );
   }
 
-});
+}));
 
 module.exports = Main;
